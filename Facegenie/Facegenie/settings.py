@@ -87,7 +87,7 @@ DATABASES = {
 DATABASES = {
        'default': {
            'ENGINE': 'djongo',
-           'NAME': 'django_facegenie',
+           'NAME': 'djangoFacegenie2',
        }
    }
 
